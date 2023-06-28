@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "streamlit-lytzen",
+  "private_key_id": "a8f528cc03162e03ba901d760106b412fa7a61cb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDvXlhwOMisL5HZ\nreXFzNhuLJ+XeuBQe8L19J+vFoTyqz3wYWGnibogqn8urY6d+dIP/USWvQSoY/7j\nrUoc+MPDmlesI1Z0CwSKkFyVwoT4MLec6IFGKPf3+R+4e+u/s5S1grHS1jxcKLOn\n71C8AL4a3qelkKReZc7WNsY4juDEWeG+xc2l6zqS+97AcCyZKHAo1Jac84xHX4Ts\n+xajyjLyd7xWAAH/LaXYf2lfVpH4LAMI5Okn15mQ0dGuKIt2Ah/2k3f1DEnHMPBH\nqgisBdsnZK0ldaDb/7dGBOioipUzC0ATyr15uOujGfzreBk6mhiggnvW4mBmWYng\nVS3aBDGHAgMBAAECggEADOQmXCjaudc4AiKo6L2u/EP/9k8CTKNVrRxXCz1pvI33\nYH5GHZk/wmmcPt3O+/gL1ZucuYeFfDIidI2NG8FT/bFOvnEKw2YigPnkWpZmxd0N\nznABIk+rhxnOGQfneuQHgrz+qa2rA4WXo1gyn2Vk15qdKb//8iuGd6fshfg/56Ma\n5/P8kUu6YzbRiPBzsv7C8CpDdVDW4Qdg6QU3bXEzUFsrfHJNLfXJlo67TIylVeo3\nnyG42b7K4zLvZiGDX9k5VtaXETzIrm/a8MdrJPHzyHsMgkEZRz+OdZQupLpiSEY5\n77nHGuihwVg22Eb3ekrhmLPqn35nDvipV66gNoMnLQKBgQD7vnh/jZ7njfw5Y3/n\n/8b2dS0/cL/b9SriX4R3DoRotLFGxzELJHd6zzelZVMjQOifC00uij7/IZx0w8d+\nS0p9GWan9ES+HtLo+8NjVejswWK3rw+s/U3qHkogrVm6r88vngBWsVeH0CG7dxJw\nWeDi3FjM4Zq1i53OhMYQ7ZgkKwKBgQDzalCH/ahafpUwGN5g/8MI/jza9OlLJjJR\ngYXSj62sPtP/boweCeVPYsLTXoKEG7cvPCBOnljpNEoZkLND+XYXIKJt4WJVbKKL\nHN/epWtSPjM1YIWuy3ML6+F/M8y5GbNdBUdZbGStoGrgxVHXD8U4177SJHW4m7lH\nf/jfHdyuFQKBgQCRIFPtDKKf0K2oE+FHyJ9Vs2V7Xi9syWCIkhIWZIsWpZxRNkHi\nr4olhVIKCmisOR4hme1LuCzq/eBpO/hEqXjut3cDugDrLW/fGkygdoVJ/44+YDCE\nRJ7nKcEIJ4dD5VhmlgqR77iLNgRMQy+hD19iyS50Jlb+89bsmIRqe94qcwKBgAnh\nMsuSPBcQNDXzjHMbbmsbBpVMg3uNXVV5kFjvg/kNw8UGU6GUfT4voAC8QUfjaBf+\ntMD8JFeyy58mBGCp62Uc6frTvw4Ajsher6d1x1lbNPDhrgteLpk5RbnH/HM229TW\ntgKnJ570d+IPoDa+aR7ZguE8oZqQl4CTbSKBL8fRAoGAchCG4Ezo0Ea2d9bf2SzP\nJ/MSeyvzL3AlYne2fWDbOibgesvkWspGS4kNyIo8gJoHLJIa/ahyM+7Qi8/JHrA3\nlOCVyiwNyZlPZfLzvroSEORRgP5d3Sw9ujHOxlXqB+vH7+r02qPXj3MSiMWWq9cD\nyOxHKYy2nHw4bT0TLm4S7qU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "streamlit-lytzen@streamlit-lytzen.iam.gserviceaccount.com",
+  "client_id": "103113797395608766637",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/streamlit-lytzen%40streamlit-lytzen.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
