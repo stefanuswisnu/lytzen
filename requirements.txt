@@ -4,3 +4,5 @@ seaborn==0.11.2
 matplotlib==3.3.2
 mpmath==1.2.1
 scikit-learn==1.2.2
+fsspec==2023.6.0
+gcsfs==2023.6.0
